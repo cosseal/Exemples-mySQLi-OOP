@@ -10,7 +10,7 @@ class AnimauxParam {
 
     protected $mysqli;
 
-    public function __construct($dbObj)
+    public function __construct(Db $dbObj)
     {
         
         $this->mysqli = $dbObj->db;
