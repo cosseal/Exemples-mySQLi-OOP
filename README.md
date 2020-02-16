@@ -11,5 +11,5 @@ utiliser un autre nom et remplacer les valeurs )
  être instanciée à volonté.
 
 - Ces exemples sont réadaptables dans vos projets, comme vous le voyez, il existe de nombreuses façons de faire, utilisez
- celle qui vous plait le plus.
+ de préférence l'injection par dépendence ( voir dossier parametre ).
 
